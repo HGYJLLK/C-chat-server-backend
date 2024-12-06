@@ -1,0 +1,20 @@
+# ninja log v5
+6291	6596	1733483305085365251	YourExecutableName	186c84042666fb5
+1	94	1733485600420085003	build.ninja	9ab38107b101cfda
+7	396	1733243851581154164	CMakeFiles/YourExecutableName.dir/user.cpp.o	a3d09fcb20d59d99
+726	856	1733129377720156449	C_chat_server_backend	e096e52b2b71e16f
+7	1188	1733273235470736102	CMakeFiles/YourExecutableName.dir/database.cpp.o	71c04270e3d04b59
+12	6286	1733483304754509159	CMakeFiles/YourExecutableName.dir/main.cpp.o	78d1579198008cf5
+6	1441	1733243828053662343	CMakeFiles/YourExecutableName.dir/server.cpp.o	abc7e08f5d56bb1e
+18	1758	1733485606441684274	CMakeFiles/YourExecutableName.dir/db_connection.cpp.o	d9aacd46a8a95c28
+18	1790	1733485606479764994	CMakeFiles/YourExecutableName.dir/user_auth.cpp.o	a20715f8a42016d3
+19	2626	1733485607313354132	CMakeFiles/YourExecutableName.dir/user_thread.cpp.o	83378790196c2b95
+18	2924	1733485607612876799	CMakeFiles/YourExecutableName.dir/main.cpp.o	78d1579198008cf5
+19	3003	1733485607694464534	CMakeFiles/YourExecutableName.dir/chat_server.cpp.o	62da751498fc62c6
+3003	3168	1733485607861979537	YourExecutableName	1836b314ff87500c
+18	1895	1733485638600703555	CMakeFiles/YourExecutableName.dir/main.cpp.o	78d1579198008cf5
+1896	2048	1733485638759324828	YourExecutableName	1836b314ff87500c
+6	1152	1733485838664139135	CMakeFiles/YourExecutableName.dir/user_auth.cpp.o	a20715f8a42016d3
+1154	1316	1733485838831583349	YourExecutableName	1836b314ff87500c
+7	1125	1733486075861196654	CMakeFiles/YourExecutableName.dir/user_auth.cpp.o	a20715f8a42016d3
+1128	1281	1733486076020426534	YourExecutableName	1836b314ff87500c
